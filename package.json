@@ -1,0 +1,16 @@
+{
+  "name": "bot-zezin",
+  "version": "1.0.0",
+  "description": "Bot-discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Andre-Meira",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1"
+  }
+}
